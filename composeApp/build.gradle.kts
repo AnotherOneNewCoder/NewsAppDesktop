@@ -41,7 +41,6 @@ kotlin {
             implementation(libs.coil.coil)
             implementation(libs.coil.ktor)
             implementation(libs.ktor.client.android)
-
         }
         desktopMain.dependencies {
             implementation(compose.desktop.currentOs)

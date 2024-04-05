@@ -3,8 +3,7 @@ package utils
 import androidx.compose.ui.graphics.ImageBitmap
 import androidx.compose.ui.graphics.toComposeImageBitmap
 import androidx.compose.ui.input.pointer.PointerIcon
-import newsappdesktop.composeapp.generated.resources.Res
-import newsappdesktop.composeapp.generated.resources.no_image
+
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.skia.Image
 import org.jetbrains.skiko.Cursor
